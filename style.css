@@ -1,0 +1,11 @@
+.name_clase{
+    color: cadetblue;
+}
+
+.name .type{
+    background-color: rgb(167, 221, 223);
+}
+
+.first::first-letter{
+    color: rgb(32, 27, 116);
+}
